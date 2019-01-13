@@ -20,5 +20,4 @@ int main ()
     {
         printf("%d is less than %d\n", num1,num2);
     }
-
 }

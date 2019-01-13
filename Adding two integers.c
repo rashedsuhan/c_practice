@@ -1,6 +1,5 @@
 // Adding two integers
 #include <stdio.h>
-
 int main (void)
 {
     int integer1;
